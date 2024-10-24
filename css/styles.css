@@ -122,3 +122,18 @@ footer a {
 footer p {
     margin: 0;
 }
+.about {
+    text-align: center;
+    color: black;
+    padding: 10px 10px 50px 10px;
+}
+.about .caixa {
+    background-color: #ffffff;
+    padding: 0 0 10px 0;
+    border-radius: 8px;
+    color: #333333;
+    width: 90%;
+    height: auto;
+    text-align: justify-all;
+    padding: 20px;
+}
