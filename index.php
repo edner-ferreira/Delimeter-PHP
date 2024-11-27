@@ -1,24 +1,5 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Delímiter - Priorize sua Alimentação</title>
-    <link rel="stylesheet" href="css/styles.css">
-</head>
-<body>
-<header>
-    <div class="logo">
-        <a href="index.html"><img src="images/logo.png" alt="Logo Delímiter"></a>
-    </div>
-    <nav>
-        <ul>
-            <li><a href="about.html">Sobre Nós</a></li>
-            <li><a href="#">Sustentabilidade</a></li>
-            <li><a href="#">Últimas Notícias</a></li>
-        </ul>
-    </nav>
-</header>
+<?php require "header.php"; ?>
+
 <main>
     <section class="container-main">
         <div class="container-main-image">
@@ -68,18 +49,5 @@
         </div>
     </section>
 </main>
-<footer>
-    <div class="social">
-        <a href="#"><img src="images/instagram.png" alt="Instagram"></a>
-        <a href="#"><img src="images/whatsapp.png" alt="WhatsApp"></a>
-        <a href="#"><img src="images/linkedin.png" alt="LinkedIn"></a>
-    </div>
-    <div class="links">
-        <a href="#">Política de Privacidade</a> |
-        <a href="#">Contato</a> |
-        <a href="#">Termos de uso</a>
-    </div>
-    <p>&copy; 2024 - Delímiter LTDA - Todos os direitos reservados.</p>
-</footer>
-</body>
-</html>
+
+<?php require "footer.php"; ?>
