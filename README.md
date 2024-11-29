@@ -4,4 +4,4 @@
 
 # Deploy no GitHub Pages
 
-<a href="https://edner-ferreira.github.io/Delimeter-PHP/index.html">Página do Delimeter no GitHub Pages</a>
+<a href="https://edner-ferreira.github.io/Delimeter-PHP/home.html">Página do Delimeter no GitHub Pages</a>
