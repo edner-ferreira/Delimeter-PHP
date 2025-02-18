@@ -8,4 +8,4 @@
 
 # Deploy no servidor do Infinityfree
 
-<a href="https://www.delimeter.42web.io/index.php">Página do Delimeter hospedada no servidor Infinityfree</a>
+<a href="http://www.delimeter.42web.io/index.php">Página do Delimeter hospedada no servidor Infinityfree</a>
